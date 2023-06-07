@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🎓 Computer Science @ NYU<br>🔭 Currently working on my personal website<br>🌱 I’m currently learning NextJS, TypeScript, ExpressJS<br>📸 Photographer & Youtuber<br>🛹 PEV Rider - EUC, ESK8<br>⚡ Fun fact: Proud Cat Dad of a Maine Coon
+🎓 Computer Science @ NYU<br> 🌱 I’m currently learning NextJS, TypeScript, ExpressJS<br>📸 Photographer & Youtuber<br>🛹 PEV Rider - EUC, ESK8<br>⚡ Fun fact: Proud Cat Dad of a Maine Coon
 
 
 ## 🌐 Socials:
