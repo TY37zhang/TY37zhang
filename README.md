@@ -14,7 +14,7 @@ let Ty = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Python, SQL],
   tools: [React, Next, Node, Tailwind, Styled-Components, Figma, Docker],
-  skills: ["User Research & Market Analysis", "Cross-functional team leadership", "AI-Driven Analytics"],
+  skills: ["User Research & Market Analysis", "Cross-functional Team Leadership", "AI-Driven Analytics"],
  	Communities: {
                         Name: "PEV NYC",
     										Organizer: "Me",
