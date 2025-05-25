@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🎓 Computer Science @ NYU<br> 🎓 Information Systems @ Cornell Tech<br>  📸 Photographer<br> 🛹 PEV Rider - EUC, ESK8<br>
+🎓 Computer Science @ NYU<br> 🎓 Information Science @ Cornell Tech<br>  📸 Photographer<br> 🛹 PEV Rider - EUC, ESK8<br>
 
 
 ## 🌐 Socials:
