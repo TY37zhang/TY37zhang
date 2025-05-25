@@ -1,16 +1,39 @@
-### Hi there 👋
+<h2> Hi, I'm Tianyin Zhang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**TY37zhang/TY37zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R6aTQ0eXN0ZXFyajd4am1paHY0bnVpZ2p3dThrYmdkeWs2ZmJ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10QncnD0UNuBMI/giphy.gif" width="230">
 
+<p><em>Master's Student at <a href="https://tech.cornell.edu/">Cornell Tech</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Software Engineer at <a href="https://www.tianyinzhang.com/">Home</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-# 💫 About Me:
-🎓 Computer Science @ NYU<br> 🎓 Information Science @ Cornell Tech<br>  📸 Photographer<br> 🛹 PEV Rider - EUC, ESK8<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tianyinzhang37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aka.ty37)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aka_ty37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tianyinzhang37)
+```javascript
+let Ty = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS, Python, SQL],
+  tools: [React, Next, Node, Tailwind, Styled-Components, Figma, Docker],
+  skills: ["User Research & Market Analysis", "Cross-functional team leadership", "AI-Driven Analytics"],
+ 	Communities: {
+                        Name: "PEV NYC",
+    										Organizer: "Me",
+    										Coorganizer: "Liam Martens"
+                        Location: "NYC",
+                        Topic: "Personal Electric Vehicle"
+                      },
+ Projects: {
+   											Name: "Cornell Tech Hub",
+   											URL: "https://www.cornelltechhub.info/"
+ },
+ {
+   											Name: "PEV NYC",
+   											URL: "https://pevnyc.org/"
+ }
+ Location: "NYC",
+}
+```
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
