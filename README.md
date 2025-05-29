@@ -16,19 +16,19 @@ let Ty = {
   tools: [React, Next, Node, Tailwind, Styled-Components, Figma, Docker],
   skills: ["User Research & Market Analysis", "Cross-functional Team Leadership", "AI-Driven Analytics"],
  	Communities: {
-                        Name: "PEV NYC",
-    										Organizer: "Me",
-    										Coorganizer: "Liam Martens"
-                        Location: "NYC",
-                        Topic: "Personal Electric Vehicle"
-                      },
+          Name: "PEV NYC",
+          Organizer: "Me",
+          Coorganizer: "Liam Martens"
+          Location: "NYC",
+          Topic: "Personal Electric Vehicle"
+},
  Projects: {
-   											Name: "Cornell Tech Hub",
-   											URL: "https://www.cornelltechhub.info/"
+          Name: "Cornell Tech Hub",
+          URL: "https://www.cornelltechhub.info/"
  },
  {
-   											Name: "PEV NYC",
-   											URL: "https://pevnyc.org/"
+          Name: "PEV NYC",
+          URL: "https://pevnyc.org/"
  }
  Location: "NYC",
 }
