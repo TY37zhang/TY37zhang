@@ -28,7 +28,7 @@ let Ty = {
   communities: {
     name: "PEV NYC",
     organizer: "Me",
-    coorganizer: "Liam Martens",
+    co_organizer: "Liam Martens",
     location: "NYC",
     topic: "Personal Electric Vehicle"
   },
