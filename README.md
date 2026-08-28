@@ -4,6 +4,5 @@
   MTS @ <a href="https://vercel.com/">Vercel</a>
      <a href="https://v0.app/">v0</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</br>IS @ <a href="https://tech.cornell.edu/">Cornell</a>
-</br>CS @ <a href="https://www.nyu.edu/">NYU</a>
+</br>IS @ <a href="https://tech.cornell.edu/">Cornell</a> CS @ <a href="https://www.nyu.edu/">NYU</a>
 </em></p>
